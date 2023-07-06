@@ -1,0 +1,59 @@
+{
+  "hash": "65ef28b4",
+  "browserHash": "382c952e",
+  "optimized": {
+    "vue/dist/vue.esm-bundler.js": {
+      "src": "../../node_modules/vue/dist/vue.esm-bundler.js",
+      "file": "vue_dist_vue__esm-bundler__js.js",
+      "fileHash": "dcdcd49b",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "5ea59f34",
+      "needsInterop": false
+    },
+    "lodash": {
+      "src": "../../node_modules/lodash/lodash.js",
+      "file": "lodash.js",
+      "fileHash": "6e7a0908",
+      "needsInterop": true
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/lib/index.js",
+      "file": "@popperjs_core.js",
+      "fileHash": "53cf7487",
+      "needsInterop": false
+    },
+    "jquery": {
+      "src": "../../node_modules/jquery/dist/jquery.js",
+      "file": "jquery.js",
+      "fileHash": "c0bef63e",
+      "needsInterop": true
+    },
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "d22ba6dc",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "c5915ef2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DT4FDMUL": {
+      "file": "chunk-DT4FDMUL.js"
+    },
+    "chunk-34KCJ4AU": {
+      "file": "chunk-34KCJ4AU.js"
+    },
+    "chunk-FAW2VN4A": {
+      "file": "chunk-FAW2VN4A.js"
+    }
+  }
+}
